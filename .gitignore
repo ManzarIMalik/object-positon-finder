@@ -1,2 +1,4 @@
 server.py
 client.py
+yolov3.weights
+yolo_out_py.avi

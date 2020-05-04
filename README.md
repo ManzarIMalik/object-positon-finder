@@ -13,8 +13,8 @@ Knowing Object location in a frame is useful in real-time applications, in the r
 
 - A single image:
 
-`python3 object_detection_yolo.py --image=bird.jpg`
+`python3 find.py --image=bird.jpg`
 
 - A video file:
 
-`python3 object_detection_yolo.py --video=run.mp4`
+`python3 find.py --video=run.mp4`
